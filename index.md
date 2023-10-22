@@ -10,3 +10,7 @@ print('Hello world!')
 
 System.out.println('Hello world!')
 ```
+## This is a to-do list
+- [x] Go to supermarket
+- [ ] Add items
+- [ ] Check out
